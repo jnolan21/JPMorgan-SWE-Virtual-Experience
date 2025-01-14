@@ -1,2 +1,3 @@
 # JPMC Task 3
-Starter repo for task 3 of JPMC's Forage program
+
+My completed task 3 work for the JP Morgan Chase & Co. Software Engineering Virtual Experience on Forage.
