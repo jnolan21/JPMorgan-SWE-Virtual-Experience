@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JPMorgan Chase Software Engineering Virtual Experience
 
 This repository contains my consolidated solutions for the **JPMorgan Chase Software Engineering Virtual Experience Program** hosted by Forage.  
@@ -38,3 +39,8 @@ The program simulates real-world software engineering tasks in the technology te
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/JPMorgan-SWE-Virtual-Experience.git
+=======
+# JPMC Task 3
+
+My completed task 3 work for the JP Morgan Chase & Co. Software Engineering Virtual Experience on Forage.
+>>>>>>> task3-branch
