@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # JPMorgan Chase Software Engineering Virtual Experience
 
 This repository contains my consolidated solutions for the **JPMorgan Chase Software Engineering Virtual Experience Program** hosted by Forage.  
